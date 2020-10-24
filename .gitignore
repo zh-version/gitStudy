@@ -1,0 +1,5 @@
+#忽略 hello.txt
+hello.txt
+
+#忽略 css/hello.css
+css/hello.css
